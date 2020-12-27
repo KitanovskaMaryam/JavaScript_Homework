@@ -25,4 +25,4 @@ console.log('Zbirot iznesuva ', calculator(5, 7, 'soberi'));
 console.log('Razlikata iznesuva ', calculator(5, 7, 'odzemi'));
 console.log('Proizvodot iznesuva ', calculator(5, 7, 'pomnozi'));
 console.log('Kolicnikot iznesuva ', calculator(5, 7, 'podeli'));
-console.log('Zbirot iznesuva ', calculator(5, 7, 'poddddddeli'));
+console.log(calculator(5, 7, 'poddddddeli'));
